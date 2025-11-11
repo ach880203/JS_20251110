@@ -36,5 +36,5 @@ let str = "hello javascript";
 let str2 = str.substring(3,7);
 console.log(str2)
 
-let str3 = str.substring(3,-20);
+let str3 = str.substring(3,-1);
 console.log(str3)
